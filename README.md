@@ -1,6 +1,7 @@
 # JSEND-specification
+
 Because of the down of the http://labs.omniti.com/labs/jsend page, I've uploaded the jsend specifications on github
--------------------------
+
 = JSend =
 
  * '''What?''' - Put simply, JSend is a specification that lays down some rules for how [http://json.org JSON] responses from web servers should be formatted. JSend focuses on application-level (as opposed to protocol- or transport-level) messaging which makes it ideal for use in [http://en.wikipedia.org/wiki/Representational_State_Transfer REST]-style applications and APIs.
