@@ -6,3 +6,4 @@ The files are in [Trac Wiki format](https://trac.edgewall.org/wiki/WikiFormattin
 
 I also converted them in html format that can be seen from here https://alex-ebasta.github.io/JSEND-specification/jsend-specs.html
 
+Update: the Jsend specification from omniti-labs is moved here: https://github.com/omniti-labs/jsend
